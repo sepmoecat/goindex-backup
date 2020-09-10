@@ -7,10 +7,6 @@ Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and
 
 `index.js` is the content of the Workers script.  
 
-## Demo  
-material: [https://index.gd.workers.dev/](https://index.gd.workers.dev/)  
-classic: [https://indexc.gd.workers.dev/](https://indexc.gd.workers.dev/)  
-
 ## Deployment  
 1.Install `rclone` software locally  
 2.Follow [https://rclone.org/drive/]( https://rclone.org/drive/) bind a drive  
